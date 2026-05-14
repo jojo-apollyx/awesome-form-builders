@@ -89,3 +89,7 @@ A curated list of awesome form builders for developers, designers, and businesse
 - **Tally** - No-code form builder with unlimited forms, responses, and advanced features.
   - [Website](https://tally.so/)
   - Features: Custom branding, integrations, and collaboration.
+
+- **Apollyx** - AI-powered no-code page builder for service businesses (tattoo artists, salons, gyms, freelancers). Generate booking pages, digital waivers, intake forms, and bio links from a prompt.
+  - [Website](https://www.apollyx.com/)
+  - Features: AI form/page generation, e-signature waivers, bookings, mobile-first templates, custom branding, instant publishing.
